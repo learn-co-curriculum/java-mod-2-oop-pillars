@@ -25,7 +25,7 @@ Object-Oriented Programming language has these four pillars in common:
 - Abstraction
 - Polymorphism
 
-Each of these pillars will be its own section where we will delve more into
+Each of these pillars will be its own lesson where we will delve more into
 detail about the pillar and how it is applied in Java. For now, let us define
 each of these, so we are familiar with the term once we reach that lesson.
 
