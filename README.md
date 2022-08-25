@@ -18,7 +18,7 @@ implement real-world entities.
 Java is just one of the many OOP languages out there. Some other OOP languages
 are Javascript, TypeScript, Ruby, and Python. These languages all take on a
 different syntax from each other, but one thing we can count on is that each
-Object-Oriented Programming language has these four pillars in common:
+object-oriented programming language has these four pillars in common:
 
 - Encapsulation
 - Inheritance
